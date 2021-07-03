@@ -1,1 +1,1 @@
-# Combined_Cycle_Power_Plant_Gradient_Descent
+# A Simple project of Cycle Power Plant using Gradient Descent.
